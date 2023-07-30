@@ -1,3 +1,13 @@
+# What is this fork?
+
+This is a fork of the main `Spectre.Console` repository with [atreyurock's](https://github.com/atreyurock/spectre.console) text prompt UI navigation code merged.
+
+I needed these changes, but they were [rejected](https://github.com/spectreconsole/spectre.console/pull/586#issuecomment-1172191862) because of a [stupid](https://drewdevault.com/2018/10/05/Dont-sign-a-CLA.html) [CLA](https://drewdevault.com/2023/07/04/Dont-sign-a-CLA-2.html).
+
+All credit goes to [atreyurock](https://github.com/atreyurock) and [matkoch](https://github.com/matkoch). I only merged their code with no modifications whatsoever.
+
+If this fork is outdated with `Spectre.Console`'s repo, please open a GitHub issue. I will merge the most recent commits as quickly as possible.
+
 # `Spectre.Console`
 
 _[![Spectre.Console NuGet Version](https://img.shields.io/nuget/v/spectre.console.svg?style=flat&label=NuGet%3A%20Spectre.Console)](https://www.nuget.org/packages/spectre.console)_ _[![Spectre.Console CLI NuGet Version](https://img.shields.io/nuget/v/spectre.console.cli.svg?style=flat&label=NuGet%3A%20Spectre.Console.Cli)](https://www.nuget.org/packages/spectre.console.cli)_ [![Netlify Status](https://api.netlify.com/api/v1/badges/1eaf215a-eb9c-45e4-8c64-c90b62963149/deploy-status)](https://app.netlify.com/sites/spectreconsole/deploys)

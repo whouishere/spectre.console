@@ -1,3 +1,13 @@
+# O que este fork é?
+
+Este é um fork do repósitorio principal do `Spectre.Console` com o código de navegação no prompt de texto do [atreyurock](https://github.com/atreyurock/spectre.console).
+
+Eu precisei dessas mudanças, porém elas foram [rejeitadas](https://github.com/spectreconsole/spectre.console/pull/586#issuecomment-1172191862) por causa de um [CLA](https://drewdevault.com/2018/10/05/Dont-sign-a-CLA.html) [estúpido](https://drewdevault.com/2023/07/04/Dont-sign-a-CLA-2.html).
+
+Todos os créditos vão ao [atreyurock](https://github.com/atreyurock) e [matkoch](https://github.com/matkoch). Eu apenas fiz um _merge_ do código deles sem quaisquer modificações.
+
+Caso esse fork esteja desatualizada com o repositório do `Spectre.Console`, por favor abra uma _issue_ no GitHub. Eu irei tentar adicionar os commits mais recentes o mais rápido possível.
+
 # `Spectre.Console`
 
 _[![Spectre.Console NuGet Versão](https://img.shields.io/nuget/v/spectre.console.svg?style=flat&label=NuGet%3A%20Spectre.Console)](https://www.nuget.org/packages/spectre.console)_
