@@ -152,8 +152,7 @@ Task("Publish-NuGet")
 // Targets
 
 Task("Publish")
-    .IsDependentOn("Publish-GitHub")
-    .IsDependentOn("Publish-NuGet");
+    .IsDependentOn("Publish-GitHub");
 
 Task("Default")
     .IsDependentOn("Package");
